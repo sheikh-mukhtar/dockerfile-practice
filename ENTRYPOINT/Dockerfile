@@ -1,4 +1,3 @@
 FROM almalinux:9
-CMD ["goggle.com"]
+CMD ["google.com"]
 ENTRYPOINT ["ping"]
-CMD ["sleep","1000"]
