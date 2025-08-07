@@ -1,3 +1,3 @@
-FROM almallinux:9
+FROM almalinux:9
 CMD ["goggle.com"]
 ENTRYPOINT ["ping"]
